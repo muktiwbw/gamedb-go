@@ -1,1 +1,1 @@
-# Game DB on Go
+# Game DB
